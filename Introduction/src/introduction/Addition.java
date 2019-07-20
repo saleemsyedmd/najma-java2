@@ -12,7 +12,8 @@ public class Addition {
 		snum = tuna.nextDouble();
 		answer = fnum+snum;
 				System.out.println(answer);
-		
 	}
 
+	
 }
+
